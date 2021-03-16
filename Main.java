@@ -23,7 +23,7 @@ class Main {
       players.add(new Player());
     }
 
-    System.out.println("We have added " + num + " players to this hunt. Let's fund some eggs!");
+    System.out.println("We have added " + num + " players to this hunt. Let's find some eggs!");
 
     hunt(players);
 
